@@ -1,0 +1,15 @@
+Toisen tekstitiedoston teksti alkaa tästä.
+
+Vieläkin ollaan toisessa tekstitiedostossa.
+This is my demo file for fileread.
+br, Mika
+This is my demo file for fileread.
+br, Mika
+Toisen tekstitiedoston teksti alkaa tästä.
+
+Vieläkin ollaan toisessa tekstitiedostossa.
+Toisen tekstitiedoston teksti alkaa tästä.
+
+Vieläkin ollaan toisessa tekstitiedostossa.
+This is my demo file for fileread.
+br, Mika

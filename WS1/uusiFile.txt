@@ -1,0 +1,7 @@
+I wrote this!
+This is my demo file for fileread.
+br, Mika
+Toisen tekstitiedoston teksti alkaa tästä.
+
+Vieläkin ollaan toisessa tekstitiedostossa.
+I wrote this!

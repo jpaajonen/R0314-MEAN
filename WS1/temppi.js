@@ -1,4 +1,4 @@
-var json = require(./'sampledata.json');
+var json = require('./sampledata.json');
 
 var html = '<table border = "1">';
 
@@ -9,11 +9,11 @@ for (var i = 0; i < json.length; i++) {
 	html += '<td>' + json[i].company + '</td>'
 	html += '<td>' + json[i].address + '</td>'
 	html += '</tr>';
-	console.log(
-	console.log('<tr><td>' + json[i].name + '</td></tr>');
-	console.log('<tr><td>' + json[i].age + '</td></tr>');
-	console.log('<tr><td>' + json[i].company + '</td></tr>');
-	console.log('<tr><td>' + json[i].address + '</td></tr>');
+
+	console.log('<td>' + json[i].name + '</td>');
+	console.log('<td>' + json[i].age + '</td>');
+	console.log('<td>' + json[i].company + '</td>');
+	console.log('<td>' + json[i].address + '</td>');
 }
 
 html += "</table>";

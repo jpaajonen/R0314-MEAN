@@ -4,8 +4,8 @@ const fs = require('fs');
 http.createServer(function (request, response) {
 
     if (request.url === '/') {
-        response.writeHead(200, { 'Content-Type': 'text/plain' });
-        response.write('Nothing here to see');
+        response.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
+        response.write('Täällä ei ole nähtävää');
         response.end();
     }
 
